@@ -1,2 +1,2 @@
 # My Coding Journey
-Collection of my coding journey
+This repo is a collection of what I've learned and applied
