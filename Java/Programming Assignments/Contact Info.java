@@ -13,17 +13,17 @@ public class Program_01 {
 		System.out.println();
 		
 		System.out.println("********");
-  	System.out.println("   **  ");
-    System.out.println("   **  ");
-    System.out.println("   **  ");
-    System.out.println("   **  ");
-  	System.out.println("   **  ");
+  		System.out.println("   **  ");
+    		System.out.println("   **  ");
+    		System.out.println("   **  ");
+    		System.out.println("   **  ");
+  		System.out.println("   **  ");
         
-    System.out.println(" ***** ");
-    System.out.println("*     *");
-    System.out.println("*     	");
-    System.out.println("*     	");
-    System.out.println("*     *");
-    System.out.println(" ***** ");
+    		System.out.println(" ***** ");
+   		System.out.println("*     *");
+    		System.out.println("*     	");
+    		System.out.println("*     	");
+    		System.out.println("*     *");
+    		System.out.println(" ***** ");
 	}
 }
