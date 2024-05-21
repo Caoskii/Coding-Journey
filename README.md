@@ -1,2 +1,2 @@
-# Coding-Journey
+# My Coding Journey
 Collection of my coding journey
