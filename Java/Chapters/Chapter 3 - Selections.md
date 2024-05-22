@@ -158,7 +158,7 @@ else
 
 ## Multi-Way if-else Statements
 
-![Screenshot 2024-02-05 at 10.58.29 AM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/390e5f93-07cf-4492-a7f9-e9f8d32aa70c/c49775ef-d674-4087-af5d-35a10080d5df/Screenshot_2024-02-05_at_10.58.29_AM.png)
+!<img width="692" alt="Chapter 3 (1)" src="https://github.com/Caoskii/Coding-Journey/assets/146856547/305a8d65-d4fe-4f71-ab74-b6762e86f183">
 
 ## Trace if-else Statement
 
