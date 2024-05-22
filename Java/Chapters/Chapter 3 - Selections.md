@@ -276,7 +276,7 @@ if (even)
 
 — The US federal personal income tax is calculated based on the filing status and taxable income. There are four filing statuses: Single Filers, Married Filing Jointly, Married Filing Separately, and Head of Household. The tax rates for 2009 are shown below
 
-![Screenshot 2024-02-05 at 2.21.02 PM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/390e5f93-07cf-4492-a7f9-e9f8d32aa70c/16820f79-3fb6-41d2-a528-ce866c3f9ae2/Screenshot_2024-02-05_at_2.21.02_PM.png)
+!<img width="815" alt="Chapter 3 (2)" src="https://github.com/Caoskii/Coding-Journey/assets/146856547/bf9637fd-d57d-4971-b7c5-8dc338fb2cc9">
 
 ```jsx
 if (status == 0) {
@@ -388,7 +388,7 @@ switch (status) {
 
 ## Switch Statement Flow Chart
 
-![Screenshot 2024-02-05 at 2.59.44 PM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/390e5f93-07cf-4492-a7f9-e9f8d32aa70c/1a1dce25-f240-4325-bebb-750b5588e610/Screenshot_2024-02-05_at_2.59.44_PM.png)
+!<img width="777" alt="Chapter 3 (3)" src="https://github.com/Caoskii/Coding-Journey/assets/146856547/8d1f0ac6-a222-4309-bfbc-c5aa0d9a98fe">
 
 ## Switch Statement Rules
 
@@ -572,7 +572,8 @@ boolean-expression ? exp1 : exp2
 
 — Applying the operator precedence and associativity rule, the expression 3 + 4 * 4 > 5 * (4 + 3) - 1 is evaluated as :
 
-![Screenshot 2024-02-05 at 3.31.35 PM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/390e5f93-07cf-4492-a7f9-e9f8d32aa70c/35c06382-80b8-4cb9-9859-69134e05023d/Screenshot_2024-02-05_at_3.31.35_PM.png)
+!<img width="752" alt="Chapter 3 (4)" src="https://github.com/Caoskii/Coding-Journey/assets/146856547/be498b9e-9954-4389-85b7-e01c3d9c13e2">
+
 
 ## Debugging
 
